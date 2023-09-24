@@ -12,6 +12,5 @@ a simple billing system which handles basic billing
 ![image](https://github.com/pradeepde8910/billingsystem/assets/127439048/8ab5823e-4e29-4da1-b98f-7752b3b588ed)
 # BILLING DETAILS 
 ![image](https://github.com/pradeepde8910/billingsystem/assets/127439048/dfee0b1b-0e3d-4a21-ae57-e0e6105e7c44)
-
-
+# BACKEND MYSQL 
 
